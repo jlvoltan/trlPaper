@@ -1,7 +1,7 @@
 # Questionário
 
-📌 Esse diretório contem uma tabela com informações sobre a rotulação do dataset construído.
-A tabela **questionario.xlsx** apresenta as colunas: 
+📌 Esse diretório contem uma tabela (em arquivo html) com informações sobre a rotulação do dataset construído.
+A tabela **questionario.html** apresenta as colunas: 
 <ul>
 <li>ID</li>
 <li>Nome do arquivo</li>	
