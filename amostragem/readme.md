@@ -1,4 +1,4 @@
-# 1-gerar_csv.ipynb
+# 1_gerar_csv.ipynb
 Neste caderno, é realizada a importação dos vários arquivos JSON, análise do dataset (corpus) construído. Por fim, o dataset é salvo em um CSV, facilitando sua utilização em experimentos. 
 
 Esse _notebook_ contém ainda uma análise detalhada sobre o dataset (corpus) construído.
