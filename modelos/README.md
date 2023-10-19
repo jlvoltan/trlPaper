@@ -1,6 +1,12 @@
 # 🤖 Modelos 🤖
 
+De forma geral, utilizou-se 3 possíveis **datasets**: c1 (dataset.csv), c2(dataset_pre_processado_1.csv) e c3(dataset_pre_processado_stem_2.csv) com níveis crescentes de pré-processamento. Esses _datasets_ foram particionados utilizando-se a técnica um k-fold com k=5.
 
+
+
+### 2_tf_idf_resumo_XX_sem_grid.ipynb
+Esses modelos empregaram a representação vetorial TF-IDF combinada com algoritmos de ML, não se utilizou um método de otimização de parâmetros (sem_grid)).
+xx representa o _dataset_ utilizado, i.e., C1, C2 ou C3
 
 
   ### 📝 Sugestões de referência para estudo envolvendo a utilização de representação vetorial densa contextualizada 📝
