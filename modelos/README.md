@@ -26,10 +26,11 @@ xx representa o _dataset_ utilizado, i.e., C1, C2 ou C3
 
 
 
+### 4_classifica_TRL_bertimbau_neural_pi.ipynb
 
+Esses modelos empregam o Modelos de Linguagem BERTImbau  acrescido de camadas neurais. O índice _i_ representa a rodada, onde _i_ &#x2208; {1,2,3,4,5}.
 
-
-
+Adotou-se a quantidade máxima de _tokens_ como sendo 242.
 
 
 
