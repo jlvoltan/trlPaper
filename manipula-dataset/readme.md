@@ -1,5 +1,5 @@
 # 1_gerar_csv.ipynb
-Neste caderno, é realizada a importação dos vários arquivos JSON, análise do dataset (corpus) construído. Por fim, os datasets são salvos em arquivos CSV, facilitando sua utilização em experimentos. Os 3 CSVs possuem níveis de pré-processamento crescentes.
+Neste caderno, é realizada a importação dos vários arquivos JSON, análise do dataset (corpus) construído. Por fim, os datasets são salvos em arquivos CSV, facilitando sua utilização em experimentos. Os 3 CSVs (C'<sub>a</sub>,C'<sub>b</sub>,C'<sub>c</sub>) possuem níveis de pré-processamento crescentes.
 
 Esse _notebook_ contém ainda uma análise detalhada sobre o dataset (corpus) construído.
 
