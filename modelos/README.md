@@ -14,6 +14,7 @@ Os três primeiros se referem a corpus, enquanto os três últimos a partições
 
 |	  **Técnica/modelo** | **Biblioteca**  | **Especificação** |
 | ------------- | ------------- | ------------- |
+| Count Vectorizer | Scikit-learn    | *CountVectorizer*  |
 | TF-IDF | Scikit-learn    | *TfidfVectorizer*  |
 |BERT  | Hugging Face    | *BERT-base-multilingual-cased*  |
 | BERTimbau    | Hugging Face  | *neuralmind/bert-base-portuguese-cased*   |
@@ -27,17 +28,35 @@ Os três primeiros se referem a corpus, enquanto os três últimos a partições
 
 ## Dos cadernos:
 
+### 1_countvectorizer_resumo_XX_sem_grid
+Esses modelos empregaram a representação vetorial Count Vectorizer combinada com algoritmos de ML, não se utilizou um método de otimização de parâmetros (sem_grid)).
+xx representa o _dataset_ utilizado, i.e., C1, C2 ou C3
+
 ### 2_tf_idf_resumo_XX_sem_grid.ipynb
 Esses modelos empregaram a representação vetorial TF-IDF combinada com algoritmos de ML, não se utilizou um método de otimização de parâmetros (sem_grid)).
 xx representa o _dataset_ utilizado, i.e., C1, C2 ou C3
 
 
+### 4_classifica_TRL_bertimbau_neural_pi
 
-### 4_classifica_TRL_bertimbau_neural_pi.ipynb
-
-Esses modelos empregam o Modelos de Linguagem BERTImbau  acrescido de camadas neurais. O índice _i_ representa a rodada, onde _i_ &#x2208; {1,2,3,4,5}.
+Esses modelos empregam o Modelo de Linguagem BERTImbau  acrescido de camadas neurais. O índice _i_ representa a rodada, onde _i_ &#x2208; {1,2,3,4,5}.
 
 Adotou-se a quantidade máxima de _tokens_ como sendo 242.
+
+### 5_classifica_TRL_bert_neural_pi
+
+Esses modelos empregam o Modelo de Linguagem BERT  acrescido de camadas neurais. O índice _i_ representa a rodada, onde _i_ &#x2208; {1,2,3,4,5}.
+
+Adotou-se a quantidade máxima de _tokens_ como sendo 242.
+
+
+### 6_classifica_TRL_gpt2_neural_pi
+
+Esses modelos empregam o Modelos de Linguagem GPT-2, em sua variação voltada para a língua portuguesa,  acrescido de camadas neurais. O índice _i_ representa a rodada, onde _i_ &#x2208; {1,2,3,4,5}.
+
+Adotou-se a quantidade máxima de _tokens_ como sendo 242.
+
+
 
 
 
