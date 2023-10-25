@@ -1,7 +1,7 @@
 # 🤖 Modelos 🤖
 
 ## Dataset
-De forma geral, utilizou-se 3 possíveis **datasets**: C'<sub>a</sub> [mencionado agora como c1 (dataset.csv)\*], C'<sub>b</sub> [mencionado agora como c2(dataset_pre_processado_1.csv)\*] e C'<sub>c</sub> [mencionado agora como c3(dataset_pre_processado_stem_2.csv)\*] com níveis crescentes de pré-processamento. Esses _datasets_ foram particionados utilizando-se a técnica um k-fold com k=5.
+De forma geral, utilizou-se 2 possíveis **datasets**: C'<sub>a</sub> [mencionado agora como c1 (dataset.csv)\*], C'<sub>b</sub>[mencionado agora como c3(dataset_pre_processado_stem_2.csv)\*] com níveis crescentes de pré-processamento. Esses _datasets_ foram particionados utilizando-se a técnica um k-fold com k=5.
 
 
 *_Essa alteração de representação ocorreu para fins de simplificação e compatibilidade de caracteres._
