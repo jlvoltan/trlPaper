@@ -21,6 +21,7 @@ Os três primeiros se referem a corpus, enquanto os três últimos a partições
 | GPT-2  | Hugging Face    | *pierreguillou/gpt2-small-portuguese* |
 
 
+## Algoritmos de Machine Learning 
 
 
 
