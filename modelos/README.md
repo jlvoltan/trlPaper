@@ -31,7 +31,7 @@ Os três primeiros se referem a corpus, enquanto os três últimos a partições
 |Support Vector Machine |  SVM | Scikit-learn | 
 |Random Forest |  RF| Scikit-learn | 
 |AdaBoost |  Adb | Scikit-learn | 
-|Rede Neural Artificial |  RNA| | 
+|Rede Neural Artificial |  RNA| Scikit-learn/PyTorch| 
 
 
 
