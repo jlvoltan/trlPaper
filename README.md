@@ -13,7 +13,10 @@ A escala TRL surgiu na década de 70, com o propósito de mensurar a maturidade 
 
 ### 💬 Breve explicação 💬
 
-Neste trabalho, construímos um [_corpus_](https://github.com/jlvoltan/trl/tree/main/dataset) utilizando notícias e artigos científicos. Eles se encontram na pasta [_dataset_]((https://github.com/jlvoltan/trl/tree/main/dataset));
-Na pasta [questionário](https://github.com/jlvoltan/trl/tree/main/questionario) há um arquivo que sintetiza esse _corpus_, na forma de planilha.
-Na pasta [_manipula-dataset_](https://github.com/jlvoltan/trl/tree/main/manipula-dataset), existem alguns cadernos relacionados com a análise do _corpus_, pré-processamento e divisão dos _folders_.
-Por fim, na pasta [_modelos_](https://github.com/jlvoltan/trl/tree/main/modelos), são apresentados os cadernos dos experimentos, em que se obteve a representação vetorial, através de técnicas baseadas no BoW ou através de Modelos de Linguagem, e posteriormente se treinou e testou modelos de classificação. 
+- Neste trabalho, construímos um [_corpus_](https://github.com/jlvoltan/trl/tree/main/dataset) utilizando notícias e artigos científicos. Eles se encontram na pasta [_dataset_]((https://github.com/jlvoltan/trl/tree/main/dataset));
+
+- Na pasta [questionário](https://github.com/jlvoltan/trl/tree/main/questionario) há um arquivo que sintetiza esse _corpus_, na forma de planilha.
+
+- Na pasta [_manipula-dataset_](https://github.com/jlvoltan/trl/tree/main/manipula-dataset), existem alguns cadernos relacionados com a análise do _corpus_, pré-processamento e divisão dos _folders_.
+
+- Por fim, na pasta [_modelos_](https://github.com/jlvoltan/trl/tree/main/modelos), são apresentados os cadernos dos experimentos, em que se obteve a representação vetorial, através de técnicas baseadas no BoW ou através de Modelos de Linguagem, e posteriormente se treinou e testou modelos de classificação. 
