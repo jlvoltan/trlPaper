@@ -2,7 +2,7 @@
 
 📌  Trata-se de repositório para a dissertação de mestrado voltada para o problema de classificação de documentos utilizando a escala TRL.
 
-📌  Aqui encontramos o [_corpus_](https://github.com/jlvoltan/trl/tree/main/dataset) (_dataset_) construído e (modelos treinados)[https://github.com/jlvoltan/trl/tree/main/modelos] para essa tarefa.
+📌  Aqui encontramos o [_corpus/dataset_](https://github.com/jlvoltan/trl/tree/main/dataset)  construído e [modelos treinados](https://github.com/jlvoltan/trl/tree/main/modelos) para essa tarefa.
 
 ✏️  Maiores explicações sobre a metodologia utilizada pode ser encontrada nos artigos e dissertação.
 
