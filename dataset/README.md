@@ -1,28 +1,29 @@
 # 📃 Dataset
 
 
-## 📌 Sobre a coleta:
-Os documentos foram coletados de 3 fontes:
+## 📌 About the collection of documents:
+The documents were collected from 3 sources:
+
 - [Simpósio de Aplicações Operacionais em Áreas de Defesa (SIGE)](https://www.sige.ita.br/)
 - [Noticiário do Exército](https://www.eb.mil.br/web/noticias/noticiario-do-exercito)
 - [Revista Militar de Ciência e Tecnologia (RMCT)](http://www.ebrevistas.eb.mil.br/CT)
 
-  📜  Suas `licenças de uso` devem ser consultadas nas respectivas fontes. 
+  📜  Their usage licenses should be consulted on the respective repositories.
 
 
-## :file_cabinet: Organização:
-- Na 📁 `original`, os documentos encontram-se como foram extraídos dos respectivos sites, em formato `pdf`.
-- Na 📁 `json`, os documentos passaram por uma etapa de pré-processamento e se encontram em formato `JSON`, já estando rotulados.
-- O arquivo `controle-documentos.xls` apresenta uma planilha contendo  `ID`, `nome do arquivo`, `título do artigo/notícia`, `data da publicação`, `tipo, local`, `link` e `classificação final`. 
+## :file_cabinet: Arrangement:
+-  📁 `original`, The documents are as they were extracted from their respective websites, in format `pdf`.
+-  📁 `json`,The documents underwent a preprocessing stage and are in `JSON` format, already labeled.
+- The file 'controle-documentos.xls' presents a spreadsheet containing 'ID', 'file name', 'article/news title', 'publication date', 'type, location', 'link', and 'final classification'.
 
 
-## :bar_chart: Visão geral:
-- Foram coletados `187 documentos`, eles encontram-se distribuídos da seguinte forma:
+## :bar_chart: Overview:
+- `187 documents` were collected, distributed as follows:
 
 
-| Faixa  | Quantidade |
+| TRL Range  | Quantity |
 | ------------- | ------------- |
-| Faixa 1 | 94  |
-| Faixa 2  | 41  |
-| Faixa 3  | 33  |
-| Eliminados | 19  |
+| Range 1 | 94  |
+| Range 2  | 41  |
+| Range 3  | 33  |
+| Eliminated | 19  |
