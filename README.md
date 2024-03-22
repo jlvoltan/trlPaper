@@ -23,4 +23,4 @@ An important gap exists in the lack of a methodology for corpus construction. In
 
 - In the [_manipulates_](https://github.com/jlvoltan/trlPaper/tree/main/manipulates) folder, There are some notebooks related to the analysis of the _corpus_ and preprocessing.
 
-- Finally, in the [_models_](https://github.com/jlvoltan/trlPaper/tree/main/modelos) folder, snotebooks of the experiments are presented, where the vector representation was obtained using the TF-IDF technique, and subsequently, classification models were trained and tested
+- Finally, in the [_models_](https://github.com/jlvoltan/trlPaper/tree/main/models) folder, snotebooks of the experiments are presented, where the vector representation was obtained using the TF-IDF technique, and subsequently, classification models were trained and tested
